@@ -1,6 +1,14 @@
 # html-exercicios
 [texto.txt](https://github.com/user-attachments/files/19185769/texto.txt)
 
+<html>
+	<head>
+		<title> Esse é o título </title>
+	</head>
+	<body>
+<h1>Esse é o cabeçalho da seção 1 </h1>
+<p style="color:red"> Txt na primeira linha da seção 1 <br />Txt na segunda linha da seção 1 </p>
+
 <h2>Este é um cabeçalho da seção 2</h2>
 <p style="color:blue"> Txt na primeira linha da seção 2 <br />Txt na segunda linha da seção 2 </p>
 <p style="color:blue"> Esse é outro parágrafo. 
